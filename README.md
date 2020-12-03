@@ -49,7 +49,13 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`termux-whatsapp-bot`](https://github.com/HANAN32/HNNBOT)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Gopay : 087883990922 HANAN
+* Pulsa : 087883990922 HANAN
+
+
+# SILAHKAN YANG INGIN BERTANYA CHAT JAPRI
+* Wa : 088289824963 (HANAN)
+
